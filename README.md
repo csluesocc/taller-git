@@ -105,7 +105,7 @@ $ curl -sSL http://git.io/git-extras-setup | sudo bash /dev/stdin
 ## Recursos
 
 * [Libro de trucos de Git](https://github.com/csluesocc/LibroDeTrucosGit)
-* [Introducción a Git (GitBook)](gitbook.com/book/carloscarcamo/git-intro/details)
+* [Introducción a Git (GitBook)](http://carloscarcamo.gitbooks.io/git-intro/)
 
 
 ## Participantes
