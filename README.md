@@ -1,5 +1,7 @@
 # Fundamentos de Git
 
+[![Join the chat at https://gitter.im/csluesocc/taller-git](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/csluesocc/taller-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## ¿Qué es Git?
 Git es un software de control de versiones, diseñado por Linus Torvalds; pensado en la eficacia y la confiabilidad de que tiene para el mantenimiento de versiones de los proyectos en que se implementa esta herramienta.
 
